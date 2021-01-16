@@ -21,7 +21,7 @@ namespace JSzpilaTest
         string DestinationChlodna = "Chłodna 51";
         string DestinationPlacDefilad = "Plac Defilad 1";
 
-        int waittime = 1500; //wait for 1.5sec
+        int waittime = 2000; //wait for 2sec to let everything load
 
         string SelectedBrowser = "ED"; // CR - Chrome, ED - Edge,
 
